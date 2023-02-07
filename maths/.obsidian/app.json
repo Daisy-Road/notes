@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "_ressources/images",
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "livePreview": false,
+  "defaultViewMode": "preview"
+}
